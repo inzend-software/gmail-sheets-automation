@@ -1,0 +1,1 @@
+Placeholder: grab a 60–90s screencast that shows mapping, webhook curl, and the sheet receiving the row.
